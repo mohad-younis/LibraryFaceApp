@@ -5,7 +5,7 @@ It automatically sets custom folder icons and posters for anime, movies, and TV 
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 - 🔍 **Metadata Recognition**: Detect titles, seasons, parts, and more from messy folder names.
 - 🖼 **Poster Fetching**: Automatically grab high-quality posters that matches the foler name.
@@ -32,15 +32,15 @@ It automatically sets custom folder icons and posters for anime, movies, and TV 
 
 ---
 
-## 🖼️ Preview
+### 🖼️ Preview
 
-| Before Iconify | After Iconify |
+|  |  |
 |----------------|----------------|
 | ![Before](Preview-1.png) | ![After](Preview-2.png) |
 
 ---
 
-## 🔄 Before & After Example
+### 🔄 Before & After Example
 
 | Before Iconify | After Iconify |
 |----------------|----------------|
