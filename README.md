@@ -24,11 +24,13 @@ It automatically sets custom folder icons and posters for anime, movies, and TV 
 
 ### 📁 How to Use
 
-1. Download the `.exe` from this release.
-2. Run the app.
-3. Browse to your folder(s) containing anime, movies, or shows.
-4. Click “Start” — and enjoy the transformation.
-5. Use the “Undo” tab to reverse any change if needed.
+1. Download the `.exe` from the release.
+    You can download the latest version of LibraryFace here:
+    [Download LibraryFace v1.0.0](https://github.com/mohad-younis/LibraryFaceApp/releases/latest)
+3. Run the app.
+4. Browse to your folder(s) containing anime, movies, or shows.
+5. Click “Start” — and enjoy the transformation.
+6. Use the “Undo” tab to reverse any change if needed.
 
 ---
 
