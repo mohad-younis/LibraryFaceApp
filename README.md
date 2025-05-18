@@ -2,6 +2,7 @@
 
 **LibraryFace** is a smart desktop tool that transforms plain media folders into a beautifully organized library.  
 It automatically sets custom folder icons and posters for anime, movies, and TV shows using a large dataset.
+[Download LibraryFace v1.0.0](https://github.com/mohad-younis/LibraryFaceApp/releases/latest)
 
 ---
 
@@ -19,16 +20,6 @@ It automatically sets custom folder icons and posters for anime, movies, and TV 
 
 - Windows OS (tested on Windows 10/11)
 - Internet connection for poster download
-
----
-
-### 📁 How to Use
-
-1. Download the `.exe` from here: [Download LibraryFace v1.0.0](https://github.com/mohad-younis/LibraryFaceApp/releases/latest)
-3. Run the app.
-4. Browse to your folder(s) containing anime, movies, or shows.
-5. Click “Start” — and enjoy the transformation.
-6. Use the “Undo” tab to reverse any change if needed.
 
 ---
 
