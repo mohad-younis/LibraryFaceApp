@@ -32,6 +32,14 @@ It automatically sets custom folder icons and posters for anime, movies, and TV 
 
 ---
 
+## 🖼️ Preview
+
+| Before Iconify | After Iconify |
+|----------------|----------------|
+| ![Before](Preview-1.png) | ![After](Preview-2.png) |
+
+---
+
 ## 🔄 Before & After Example
 
 | Before Iconify | After Iconify |
